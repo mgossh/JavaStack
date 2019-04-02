@@ -28,12 +28,14 @@
 		* aliapm
 * 持续集成
 	* jenkins
+	* 瓦力walle
 * 容器技术
 	* docker
 	* k8s
 * 接口测试
 	* jmeter
 	* postman
+	* ngrinder
 * 配置中心
 	* Appolo
 * redis运维
