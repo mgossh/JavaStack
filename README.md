@@ -1,9 +1,9 @@
 # Java后端技术栈
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-[![GitHub stars](https://img.shields.io/github/stars/mgossh/Java-Stack.svg?style=flat&label=Star)](https://github.com/mgossh/Java-Stack/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mgossh/Java-Stack.svg?style=flat&label=Fork)](https://github.com/mgossh/Java-Stack/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/mgossh/Java-Stack.svg?style=flat&label=Watch)](https://github.com/mgossh/Java-Stack/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/mgossh/JavaStack.svg?style=flat&label=Star)](https://github.com/mgossh/JavaStack/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mgossh/JavaStack.svg?style=flat&label=Fork)](https://github.com/mgossh/JavaStack/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/mgossh/JavaStack.svg?style=flat&label=Watch)](https://github.com/mgossh/JavaStack/watchers)
 
 # 基础
 * 数据结构
