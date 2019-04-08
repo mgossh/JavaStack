@@ -80,4 +80,4 @@ EXEC
 * [面试中关于Redis的问题看这篇就够了](https://juejin.im/post/5ad6e4066fb9a028d82c4b66)
 * [Redis缓存穿透、缓存雪崩、redis并发问题分析](https://juejin.im/post/5b961172f265da0ab7198f4d)
 * [如何高效深入的阅读Redis的源码](https://www.zhihu.com/question/28677076)
-* []()
+* [阿里云 Redis 开发规范](https://www.infoq.cn/article/K7dB5AFKI9mr5Ugbs_px)
