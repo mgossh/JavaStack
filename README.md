@@ -50,7 +50,7 @@
 	* hystrix
 	* guava ratelimiter
 * 缓存
-	* redis
+	* [redis](https://github.com/mgossh/JavaStack/blob/master/archive/redis.md)
 	* google guava
 	* ehcache
 	* memcache
