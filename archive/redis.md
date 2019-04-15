@@ -37,6 +37,9 @@ redis持久化的两种方式：
 
 ## 集群
 
+* 客户端分片
+* 代理：Twemproxy
+
 ## 发布与订阅
 发布-订阅模式实现消息队列的缺陷
 
@@ -70,6 +73,7 @@ EXEC
 业界成熟方案
 
 搜狐视频Redis私有云平台：[cachecloud](https://github.com/sohutv/cachecloud)
+
 
 
 ## 参考资料
