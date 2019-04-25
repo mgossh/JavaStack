@@ -20,7 +20,7 @@ redis持久化的两种方式
 * `RDB`：快照存储
 * `AOF`：追加文件
 
-参考：[https://redis.io/topics/persistence](https://redis.io/topics/persistence)
+参考：
 
 ### RDB
 
@@ -107,10 +107,53 @@ appendonly yes
 
 #### 优点
 
+
+
 #### 缺点
+
+#### 相关配置
+```
+# 是否开启AOF,默认no
+appendonly no
+
+# AOF文件名，文件路径桶RDB文件路径一致
+appendfilename "appendonly.aof"
+
+# 性能和实时性的均衡考虑，采用每秒刷新AOF缓存区命令到文件
+appendfsync everysec
+
+# 在重写AOF文件时，是否禁止fsync,开启后能够减轻重写时磁盘和cpu的负载，但是可能会丢失AOF重写期间的数据。
+# 均衡考虑，默认关闭。
+no-appendfsync-on-rewrite no
+
+# 自动触发重写AOF条件
+auto-aof-rewrite-percentage 100
+auto-aof-rewrite-min-size 64mb
+
+# redis使用aof恢复时，忽略最后一条可能存在问题的指令(一般是断电或意外关机导致的)
+aof-load-truncated yes
+
+# 混合持久化方案，默认关闭。4.0新增
+aof-use-rdb-preamble no
+
+```
+
+
+### 持久化监控
+```
+info persistence
+```
 
 ### 持久化选型
 
+性能和容灾之间的博弈
+
+
+### 参考资料
+* [https://redis.io/topics/persistence](https://redis.io/topics/persistence)
+* [Redis持久化](https://www.cnblogs.com/kismetv/p/9137897.html)
+
+## 复制
 
 ## 集群
 
