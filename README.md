@@ -1,9 +1,9 @@
 # Java后端技术栈
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-[![GitHub stars](https://img.shields.io/github/stars/mgossh/JavaStack.svg?style=flat&label=Star)](https://github.com/mgossh/JavaStack/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mgossh/JavaStack.svg?style=flat&label=Fork)](https://github.com/mgossh/JavaStack/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/mgossh/JavaStack.svg?style=flat&label=Watch)](https://github.com/mgossh/JavaStack/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/mgossh/awesome-java-stack.svg?style=flat&label=Star)](https://github.com/mgossh/awesome-java-stack/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mgossh/awesome-java-stack.svg?style=flat&label=Fork)](https://github.com/mgossh/awesome-java-stack/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/mgossh/awesome-java-stack.svg?style=flat&label=Watch)](https://github.com/mgossh/awesome-java-stack/watchers)
 
 # 基础
 * 数据结构
@@ -50,7 +50,7 @@
 	* hystrix
 	* guava ratelimiter
 * 缓存
-	* [redis](https://github.com/mgossh/JavaStack/blob/master/archive/redis.md)
+	* [redis](https://github.com/mgossh/awesome-java-stack/blob/master/archive/redis.md)
 	* google guava
 	* ehcache
 	* memcache
