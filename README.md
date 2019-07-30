@@ -55,6 +55,18 @@
 	* google guava
 	* ehcache
 	* memcache
+	
+# 工具类
+* 设计
+    * XMind
+    * draw.io
+    * ProcessOn
+    * Sketchboard
+* 项目管理
+    * OminiPlan
+    
+    
+
 
 	
 # 代码质量
