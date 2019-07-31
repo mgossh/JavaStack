@@ -1,6 +1,6 @@
 # Redis知识点总结
 
-[redis思维导图](https://github.com/mgossh/awesome-java-stack/blob/master/archive/redis/redis.xmind)
+[Redis思维导图](https://github.com/mgossh/awesome-java-stack/blob/master/archive/redis/redis.xmind)
 
 ## 数据结构
 ### 基础
