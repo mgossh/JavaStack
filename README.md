@@ -28,6 +28,7 @@
 		* aliapm
 * 持续集成
 	* jenkins
+	* maven
 	* 瓦力walle
 * 容器技术
 	* docker
