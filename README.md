@@ -52,7 +52,7 @@
 	* hystrix
 	* guava ratelimiter
 * 缓存
-	* [redis](https://github.com/mgossh/awesome-java-stack/blob/master/archive/redis.md)
+	* [Redis](https://github.com/mgossh/awesome-java-stack/blob/master/archive/redis.md)
 	* google guava
 	* ehcache
 	* memcache
