@@ -18,60 +18,56 @@
 
 # 运维
 * 监控
-	* grafana
-	* prometheus
-	* elk（es、logstash、kibana）
+	* Grafana
+	* Prometheus
+	* ELK（es、logstash、kibana）
 	* 全链路监控
-		* zipkin
-		* cat
-		* pinpoint
-		* aliapm
+		* Zipkin
+		* Cat
+		* Pinpoint
+		* Aliapm
 * 持续集成
-	* jenkins
-	* maven
+	* Jenkins
+	* Maven
 	* 瓦力walle
 * 容器技术
-	* docker
+	* Docker
 	* k8s
 * 接口测试
-	* jmeter
-	* postman
+	* Jmeter
+	* Postman
 	* ngrinder
 * 配置中心
 	* [Apollo](https://github.com/ctripcorp/apollo)
 	* [Nacos](https://github.com/alibaba/nacos)
-* redis运维
-	* cachecloud
+* Redis运维
+	* Cachecloud
 
 
 # 稳定性&amp;高性能&amp;高可用
 * 软硬件负载均衡
 * 容错/降级/限流
-	* sentinel
-	* resiliencer4j
-	* hystrix
-	* guava ratelimiter
+	* Sentinel
+	* Resiliencer4j
+	* Hystrix
+	* Guava Ratelimiter
 * 缓存
 	* [Redis](https://github.com/mgossh/awesome-java-stack/blob/master/archive/redis.md)
-	* google guava
-	* ehcache
-	* memcache
+	* Google Guava
+	* Ehcache
+	* Memcache
 	
 # 工具类
 * 设计
     * XMind
-    * draw.io
+    * Draw.io
     * ProcessOn
     * Sketchboard
 * 项目管理
     * OminiPlan
-    
-    
-
-
 	
 # 代码质量
-* sonar
+* Sonar
 * 阿里巴巴规约
 * 《重构·改善既有代码的设计》
 * 
