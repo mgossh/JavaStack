@@ -29,6 +29,7 @@
 * 持续集成
 	* Jenkins
 	* Maven
+	* Spinnaker
 	* 瓦力walle
 * 容器技术
 	* Docker
