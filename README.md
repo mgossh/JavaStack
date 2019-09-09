@@ -26,6 +26,12 @@
 		* Cat
 		* Pinpoint
 		* Aliapm
+	* Gralog
+* 消息服务
+	* ActiveMq
+	* RabbitMQ
+	* Rocketmq
+	* Kafka
 * 持续集成
 	* Jenkins
 	* Maven
@@ -57,7 +63,7 @@
 	* Google Guava
 	* Ehcache
 	* Memcache
-	
+	* CouchBase
 # 工具类
 * 设计
     * XMind
@@ -70,6 +76,16 @@
 # 代码质量
 * Sonar
 * 阿里巴巴规约
+* Phabricator
 * 《重构·改善既有代码的设计》
 * 
+
+* 全文检索
+    * Elasticsearch
+    * Solr
+    * Lucene
+* 规则引擎
+    * Drools
+
+
 
