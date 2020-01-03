@@ -86,6 +86,8 @@
     * Lucene
 * 规则引擎
     * Drools
+* 大数据
+    * [Presto](https://prestosql.io/docs/current/index.html)
 
 
 
