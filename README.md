@@ -49,8 +49,6 @@
 	* [Nacos](https://github.com/alibaba/nacos)
 * Redis运维
 	* Cachecloud
-
-
 # 稳定性&amp;高性能&amp;高可用
 * 软硬件负载均衡
 * 容错/降级/限流
@@ -78,7 +76,6 @@
 * 阿里巴巴规约
 * Phabricator
 * 《重构·改善既有代码的设计》
-* 
 
 * 全文检索
     * Elasticsearch
