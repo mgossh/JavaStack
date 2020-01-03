@@ -77,14 +77,15 @@
 * Phabricator
 * 《重构·改善既有代码的设计》
 
+# 大数据
 * 全文检索
     * Elasticsearch
     * Solr
     * Lucene
 * 规则引擎
     * Drools
-* 大数据
-    * [Presto](https://prestosql.io/docs/current/index.html)
+
+* [Presto](https://prestosql.io/docs/current/index.html)
 
 
 
