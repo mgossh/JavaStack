@@ -25,6 +25,7 @@
 	* Gralog
 * 性能分析
 	* Arthas
+	* 火焰图（flame graph）
 * 消息服务
 	* ActiveMq
 	* RabbitMQ
