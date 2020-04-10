@@ -60,6 +60,7 @@
 	* Ehcache
 	* Memcache
 	* CouchBase
+	* Caffeine
 # 工具类
 * 设计
     * XMind
